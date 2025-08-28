@@ -80,7 +80,8 @@
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=KravtsovYurii&theme=tokyonight" alt="KravtsovYurii" />
 </p>
 
-### 🐍 Моя активність на GitHub:
+### 🐍 Моя змійка контрибуцій GitHub
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KravtsovYurii/KravtsovYurii/main/dist/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/KravtsovYurii/KravtsovYurii/main/dist/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
