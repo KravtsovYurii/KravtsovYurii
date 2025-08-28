@@ -49,10 +49,10 @@
 
 ### 📊 Моя статистика на GitHub:
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&locale=uk" alt="YOUR_GITHUB_USERNAME" />
-  <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&locale=uk" alt="YOUR_GITHUB_USERNAME" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=KravtsovYurii&show_icons=true&theme=tokyonight&locale=uk" alt="KravtsovYurii" />
+  <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KravtsovYurii&layout=compact&theme=tokyonight&locale=uk" alt="KravtsovYurii" />
 </p>
 
 <p align="center">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="YOUR_GITHUB_USERNAME" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=KravtsovYurii&theme=tokyonight" alt="KravtsovYurii" />
 </p>
