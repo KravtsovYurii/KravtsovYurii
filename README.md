@@ -6,6 +6,12 @@
 <h1 align="center">Привіт, я Юрій Кравцов! 👋</h1>
 <h3 align="center">Мобільний розробник (Flutter) з України 🇺🇦</h3>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=87CEEB&center=true&vCenter=true&width=435&lines=Flutter+%7C+Dart+%7C+Firebase;UI%2FUX+Enthusiast;Building+beautiful+apps;From+Ukraine+with+💙💛" alt="Typing SVG" />
+  </a>
+</p>
+
 <br>
 
 <p align="left"> 
@@ -72,4 +78,9 @@
 
 <p align="center">
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=KravtsovYurii&theme=tokyonight" alt="KravtsovYurii" />
+</p>
+
+### 🐍 Моя активність на GitHub:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KravtsovYurii/KravtsovYurii/main/dist/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="snake animation" />
 </p>
