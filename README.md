@@ -71,17 +71,7 @@
 ---
 
 ### 📊 Моя статистика на GitHub:
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=KravtsovYurii&show_icons=true&theme=tokyonight&locale=uk" alt="KravtsovYurii" />
-  <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KravtsovYurii&layout=compact&theme=tokyonight&locale=uk" alt="KravtsovYurii" />
-</p>
 
 <p align="center">
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=KravtsovYurii&theme=tokyonight" alt="KravtsovYurii" />
-</p>
-
-### 🐍 Моя змійка контрибуцій GitHub
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KravtsovYurii/KravtsovYurii/main/dist/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
